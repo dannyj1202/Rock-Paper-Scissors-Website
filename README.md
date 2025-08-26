@@ -33,7 +33,7 @@ First to score **3 points** wins!
 ---
 
 ##  Live Demo  
-🔗 [Play the Game Here](https://dannyj1202.github.io/Rock-Paper-Scissors-Website/)
+🔗 [Play the Game Here](http://127.0.0.1:5500/Rock_Paper_Scissor/index.html)
 
 ---
 
